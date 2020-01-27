@@ -1,4 +1,4 @@
-# NURIP_JSSC_Supplementary
+# NURIP: Neural Interface Processor
 
 This is a public repository for a reduced software model of the application-specific integrated circuit presented in the following paper:
 Gerard O'Leary, David M. Groppe, Taufik A. Valiante, Naveen Verma and Roman Genov, "NURIP: Neural Interface Processor for Brain-State Classification and Programmable-Waveform Neurostimulation," IEEE Journal of Solid-State Circuits, 2018. DOI: 10.1109/JSSC.2018.2869579
